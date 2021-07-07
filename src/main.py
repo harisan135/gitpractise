@@ -4,3 +4,4 @@ function(master code)
 {
     hello world;
 }
+test
