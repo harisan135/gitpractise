@@ -4,4 +4,7 @@ function(master code)
 {
     hello world;
 }
-test
+function(v1.0)
+{
+    this is v1.0
+}
